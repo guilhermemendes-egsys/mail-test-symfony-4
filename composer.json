@@ -1,0 +1,5 @@
+{
+    "require": {
+        "symfony/mailer": "v4.3.1"
+    }
+}
